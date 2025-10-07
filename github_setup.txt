@@ -1,0 +1,13 @@
+# GitHub Setup Commands
+
+# Replace 'yourusername' with your actual GitHub username
+# Run these commands after creating your GitHub repository:
+
+# Add remote origin
+git remote add origin https://github.com/yourusername/NutrientLimitationStrategies.git
+
+# Push to GitHub
+git push -u origin main
+
+# Verify the connection
+git remote -v
